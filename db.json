@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Cat Mouse",
+      "name": "Wireless Mouse",
       "brand": "Logitech",
       "price": 25.99,
       "category": "Electronics",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "name": "Running Shoes",
+      "name": "Sleeping Shoes",
       "brand": "Nike",
       "price": 120.00,
       "category": "Footwear",
