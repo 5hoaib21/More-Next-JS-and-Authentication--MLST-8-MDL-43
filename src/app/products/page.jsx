@@ -3,10 +3,16 @@ import React from "react";
 
 const getProducts = async () => {
   const res = await fetch("http://localhost:5000/products", {
-    cache: "force-cache",
+    next: { revalidate: 20 },
   });
   return res.json();
 };
+// const getProducts = async () => {
+//   const res = await fetch("http://localhost:5000/products", {
+//     cache: "no-store",
+//   });
+//   return res.json();
+// };
 
 const ProductsPage = async () => {
   const products = await getProducts();

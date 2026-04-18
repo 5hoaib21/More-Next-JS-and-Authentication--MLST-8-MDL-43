@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Mouse",
+      "name": "WireFull Mouse",
       "brand": "Logitech",
       "price": 25.99,
       "category": "Electronics",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "name": "Mechanical Keyboard",
+      "name": "Chemical Jockey House Board",
       "brand": "Keychron",
       "price": 89.99,
       "category": "Electronics",
