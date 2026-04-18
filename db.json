@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Cat Mouse",
+      "brand": "Logitech",
+      "price": 25.99,
+      "category": "Electronics",
+      "stock": 120,
+      "rating": 4.5,
+      "image": "https://i.ibb.co.com/mouse.jpg",
+      "description": "Ergonomic wireless mouse with long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "brand": "Keychron",
+      "price": 89.99,
+      "category": "Electronics",
+      "stock": 60,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/keyboard.jpg",
+      "description": "RGB mechanical keyboard with hot-swappable switches."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "price": 120.00,
+      "category": "Footwear",
+      "stock": 80,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/shoes.jpg",
+      "description": "Lightweight running shoes designed for comfort and speed."
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "brand": "Samsung",
+      "price": 199.99,
+      "category": "Wearables",
+      "stock": 45,
+      "rating": 4.4,
+      "image": "https://i.ibb.co.com/smartwatch.jpg",
+      "description": "Feature-rich smartwatch with fitness tracking and notifications."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 59.99,
+      "category": "Audio",
+      "stock": 100,
+      "rating": 4.3,
+      "image": "https://i.ibb.co.com/speaker.jpg",
+      "description": "Portable Bluetooth speaker with deep bass and waterproof design."
+    }
+  ]
+}
